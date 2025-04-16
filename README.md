@@ -1,13 +1,21 @@
 # Python Calculator
 
 ## Summary
-This is a simple addition-only calculator originally created in Google Colab using Python.  No databases are required.
 
-Despite its simplicity and few lines, this was my very first Python script that brought me a deep sense of reward when I finally figured out how to make it work.
+This repository contains a simple addition-only calculator, originally created in Google Colab using Python. It doesn’t rely on any databases or external libraries.
+
+While the calculator is simple and consists of only a few lines of code, it marks my first successful Python script. Completing it gave me a profound sense of accomplishment as I figured out how to make it work.
 
 ## Languages and Libraries Used
-The language used is Python.  No databases (or libraries) are needed.  Script can be ran accessing the Colab link included in the script file, or can be copy and pasted wherever Python is accepted.
+
+- **Python**: The language used for this calculator.
+- No external libraries or databases are required.
+
+The script can be run directly by accessing the Colab link provided in the script file, or you can copy and paste it into any environment that supports Python.
 
 ## Key Learnings
-As a beginner in Python (and in coding), two key learnings acquired during the process of scripting this calculator were internalizing the importance of 1) being clear of what I actually wanted to accomplish (what would my end goal should look like) and 2) understanding the actual scripting (what does the syntax really mean)?
 
+As a beginner in Python and coding in general, working on this calculator taught me two key lessons:
+
+1. The importance of clearly defining the end goal—understanding what I actually wanted to achieve before starting.
+2. The value of deeply understanding the syntax—knowing exactly what each line of code does.
